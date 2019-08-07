@@ -148,6 +148,7 @@ Naruto Shippuden; 5; https://www.youtube.com/watch?v=yCPoUk19kvE&list=PLxsWPuOO4
 Naruto Shippuden; 6; https://www.youtube.com/watch?v=6U6LfEk8hyg&list=PLxsWPuOO4owZdHn71EeyCZLEO71swbjCg&index=208&t=0s
 Naruto Shippuden; 7; https://www.youtube.com/watch?v=q6Q6aLysZoU&list=PLxsWPuOO4owZdHn71EeyCZLEO71swbjCg&index=209&t=0s
 Naruto Shippuden; 9; https://www.youtube.com/watch?v=WusOZ-Mk9PY&list=PLxsWPuOO4owZdHn71EeyCZLEO71swbjCg&index=214&t=0s
+Naruto Shippuden; 8; https://www.youtube.com/watch?v=kTfTY6kGAao
 Naruto Shippuden; 10; https://www.youtube.com/watch?v=TsXQNvk3Ixw&list=PLxsWPuOO4owZdHn71EeyCZLEO71swbjCg&index=210&t=11s
 Naruto Shippuden; 13; https://www.youtube.com/watch?v=JL_imSi91IA&list=PLxsWPuOO4owZdHn71EeyCZLEO71swbjCg&index=211&t=0s
 Naruto Shippuden; 16; https://www.youtube.com/watch?v=LDDWf1vu9gA&list=PLxsWPuOO4owZdHn71EeyCZLEO71swbjCg&index=212&t=0s
@@ -252,3 +253,5 @@ Watamote; 1; https://www.youtube.com/watch?v=gZYq7rat9d4
 Dragon Ball Z; 1; https://www.youtube.com/watch?v=GHnfX1RmZX8
 Berserk 2016; 1; https://www.youtube.com/watch?v=q2SWV5xxtcQ
 Gintama; 13; https://www.youtube.com/watch?v=iXpGVuaQwXo
+Enen no Shouboutai; 1; https://www.youtube.com/watch?v=ha-l5oFADVc
+Vinland Saga; 1; https://www.youtube.com/watch?v=xEVcTStgA4A
