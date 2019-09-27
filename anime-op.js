@@ -256,7 +256,7 @@ export const openingsList = [
     "Gintama; 13; https://www.youtube.com/watch?v=iXpGVuaQwXo",
     "Enen no Shouboutai; 1; https://www.youtube.com/watch?v=ha-l5oFADVc",
     "Vinland Saga; 1; https://www.youtube.com/watch?v=xEVcTStgA4A",
-    "Fairy Tail; 26; https://www.youtube.com/watch?v=Q6MBUm-6Rdw",
+    "Fairy Tail; 26; https://www.youtube.com/watch?v=0i3xtvg8eF8",
     "Dumbbell Nan Kilo Moteru?; 1; https://www.youtube.com/watch?v=ULjbIMvP6A0",
     "Black Clover; 8; https://www.youtube.com/watch?v=Mb6TiHLMPEo",
 ];
