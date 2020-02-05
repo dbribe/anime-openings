@@ -13,7 +13,8 @@ const videosList = [...document.querySelectorAll("ytd-playlist-video-renderer")]
     const videoIndex = index + 1;
     const videoTitle = el.querySelector("span#video-title").innerText;
     const videoDeleted = videoTitle === "[Deleted video]";
-    return {videoId, videoIndex, videoTitle, videoDeleted}
+    const videoPrivate = videoTitle === "[Private video]";
+    return {videoId, videoIndex, videoTitle, videoDeleted, videoPrivate}
 });
 
 for (const opening of openingsList) {
@@ -23,6 +24,8 @@ for (const opening of openingsList) {
         console.warn("Video not found: ", anime, openingNumber);
     } else if (match.videoDeleted) {
         console.warn("Video deleted: ", match.videoIndex, anime, openingNumber);
+    } else if (match.videoPrivate) {
+        console.warn("Video private: ", match.videoIndex, anime, openingNumber);
     }
     // console.log(x);
 }
