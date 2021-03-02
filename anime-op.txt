@@ -1,0 +1,305 @@
+3-gatsu no lion; 2; DONE
+3-gatsu no lion; 3; DONE
+Akame ga Kill!; 1; DONE
+Akame ga Kill!; 2; DONE
+Aldonah.Zero; 2; DONE
+Angel Beats!; 1; X
+Another; 1; X
+Ansatsu Kyoushitsu; 4; DONE
+Ao Haru Ride; 1; DONE
+Ao no Exorcist; 1; DONE
+Ao no Exorcist; 2; DONE
+Baki; 1; DONE
+Baki; 2; DONE
+Ballroom e Youkoso; 1; DONE
+Ballroom e Youkoso; 2; DONE
+Black Bullet; 1; DONE
+Black Clover; 1; DONE
+Black Clover; 2; DONE
+Black Clover; 3; DONE
+Black Clover; 4; DONE
+Black Clover; 5; DONE
+Black Clover; 6; DONE
+Black Clover; 7; DONE
+Black Clover; 8; DONE
+Black Clover; 9; DONE
+Black Clover; 10; DONE
+Black Clover; 11; DONE
+Black Clover; 13; X
+Black Rock Shooter; 1; X
+Bleach; 1; DONE
+Bleach; 2; DONE
+Bleach; 3; DONE
+Bleach; 4; DONE
+Bleach; 5; DONE
+Bleach; 7; DONE
+Bleach; 10; DONE
+Bleach; 12; DONE
+Bleach; 13; DONE
+Bleach; 14; DONE
+Bleach; 15; DONE
+Boku dake ga Inai Machi; 1; DONE
+Boku no Hero Academia; 1; DONE
+Boku no Hero Academia; 2; DONE
+Boku no Hero Academia; 3; DONE
+Boku no Hero Academia; 4; DONE
+Boku no Hero Academia; 5; DONE
+Boku no Hero Academia; 6; DONE
+Boogiepop wa Warawanai; 1; DONE
+Boruto; 1; DONE
+Boruto; 2; DONE
+Boruto; 4; DONE
+Btooom!; 1; DONE
+Bungou Stray Dogs; 1; DONE
+Bungou Stray Dogs; 2; DONE
+Bungou Stray Dogs; 3; DONE
+Carole & Tuesday; 1; DONE
+Clannad After Story; 1; X
+Code Geass; 1; DONE
+Code Geass; 2; X
+Code Geass; 4; DONE
+Code Geass; 5; DONE
+Cowboy Bebop; 1; DONE
+Darker than Black; 3; DONE
+Deadman Wonderland; 1; X
+Death Note; 1; DONE
+Death Note; 2; DONE
+Death Parade; 1; DONE
+Domestic na Kanojo; 1; DONE
+Dororo; 1; DONE
+Dororo; 2; DONE
+Durarara!!; 1; DONE
+Enen no Shouboutai; 1; DONE
+Enen no Shouboutai; 2; DONE
+Enen no Shouboutai; 3; DONE
+Enen no Shouboutai; 4; DONE
+Elfen Lied; 1; DONE
+Fairy Tail; 3; DONE
+Fairy Tail; 14; DONE
+Fairy Tail; 15; DONE
+Fairy Tail; 21; X
+Fairy Tail; 22; X
+Fairy Tail: Final Series; 1; DONE
+Fairy Tail: Final Series; 3; DONE
+Fairy Tail: Final Series; 4; DONE
+Fate/Apocrypha; 1; DONE
+Fate/Zero; 1; DONE
+Free!; 1; DONE
+Free!: Eternal Summer; 1; DONE
+Free!: Dive to the Future; 1; DONE
+Fullmetal Alchemist; 1; DONE
+Fullmetal Alchemist; 4; DONE
+Fullmetal Alchemist: Brotherhood; 1; DONE
+Fullmetal Alchemist: Brotherhood; 2; DONE
+Fullmetal Alchemist: Brotherhood; 3; DONE
+Fullmetal Alchemist: Brotherhood; 4; DONE
+Fullmetal Alchemist: Brotherhood; 5; DONE
+Gamers!; 1; DONE
+Gangsta; 1; DONE
+Gekkan Shoujo Nozaki-kun; 1; DONE
+Grand Blue; 1; DONE
+Great Teacher Onizuka; 1; DONE
+Great Teacher Onizuka; 2; DONE
+Grisaia no Rakuen; 2; DONE
+Guilty Crown; 1; DONE
+Guilty Crown; 2; DONE
+Haikyuu!!; 1; DONE
+Haikyuu!!; 4; DONE
+Haikyuu!!; 5; DONE
+Hataraku Saibou; 1; X
+Hellsing; 1; X
+High School DxD BorN; 1; DONE
+Highschool of the Dead; 1; DONE
+Hunter x Hunter; 1; DONE
+Hyouka; 1; DONE
+Inuyashiki; 1; DONE
+Isekai Shokudou; 1; DONE
+JoJo's Bizarre Adventure; 2; DONE
+JoJo's Bizarre Adventure; 8; DONE* (eng version somehow)
+Joker Game; 1; DONE
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen; 1; DONE
+Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen; 2; DONE
+Kakegurui; 1; DONE
+Kakeguruixx; 1; DONE
+Kekkai Sensen; 1; DONE
+Keppeki Danshi! Aoyama-kun; 1; DONE
+Kill la Kill; 2; DONE
+Kimetsu no Yaiba; 1; DONE
+Kiseijuu; 1; DONE
+Bakemonogatari; 4; DONE
+Bakemonogatari; 5; DONE
+Nisemonogatari; 3; DONE
+Koi to Uso; 1; DONE
+Kuroko no Basket; 1; DONE
+Kuroshitsuji; 1; DONE
+Kuzu no Honkai; 1; DONE
+Made in Abyss; 1; DONE
+Magi; 1; DONE
+Mahoutsukai no Yome; 1; DONE
+Mekakucity Actors; 1; DONE
+Mirai Nikki; 1; DONE
+Mirai Nikki; 2; X
+Mob psycho 100; 1; DONE
+Mob psycho 100; 2; DONE
+Monster; 1; X
+Nanatsu no Taizai; 1; DONE
+Nanatsu no Taizai; 2; DONE
+Nanatsu no Taizai; 3; DONE
+Nanatsu no Taizai; 4; DONE
+Nanatsu no Taizai; 5; DONE
+Nanatsu no Taizai; 6; DONE
+Naruto; 1; X
+Naruto; 2; DONE
+Naruto; 3; DONE
+Naruto; 4; DONE
+Naruto; 5; DONE
+Naruto; 7; DONE
+Naruto; 8; DONE
+Naruto; 9; DONE
+Naruto Shippuden; 1; DONE
+Naruto Shippuden; 2; DONE
+Naruto Shippuden; 3; DONE
+Naruto Shippuden; 4; DONE
+Naruto Shippuden; 5; DONE
+Naruto Shippuden; 6; DONE
+Naruto Shippuden; 7; DONE
+Naruto Shippuden; 8; DONE
+Naruto Shippuden; 9; DONE
+Naruto Shippuden; 10; DONE
+Naruto Shippuden; 13; DONE
+Naruto Shippuden; 16; DONE
+Naruto Shippuden; 19; DONE
+No Game No Life; 1; X
+Noragami; 1; DONE
+Noragami; 2; DONE
+One Punch Man; 1; DONE
+One Punch Man; 2; DONE
+Ookami to Koushinryou; 1; DONE
+Ore Monogatari; 1; X
+Overlord; 1; DONE
+Overlord; 2; DONE
+Overlord; 3; DONE
+Owari No Seraph; 1; DONE
+Persona 5 The Animation; 1; X
+Prison School; 1; X
+Re:Zero; 1; DONE
+Re:Zero; 2; DONE
+Rokudenashi Majutsu Koushi to Akashic Records; 1; DONE
+Sakamoto Desu Ga?; 1; X
+Samurai Champloo; 1; X
+Shigatsu wa kimi no uso; 1; DONE
+Shigatsu wa kimi no uso; 2; DONE
+Shingeki no Bahamut: Virgin Soul; 1; DONE
+Shingeki no Bahamut: Virgin Soul; 2; DONE
+Shingeki no Kyojin; 1; DONE
+Shingeki no Kyojin; 2; DONE
+Shingeki no Kyojin; 3; DONE
+Shingeki no Kyojin; 4; DONE
+Shingeki no Kyojin; 5; DONE
+Shingeki no Kyojin; 6; DONE
+Shokugeki no Souma; 1; X
+Shokugeki no Souma; 2; X
+Shokugeki no Souma; 3; DONE
+Shokugeki no Souma; 4; DONE
+Shokugeki no Souma; 5; DONE
+Shokugeki no Souma; 6; DONE
+Shokugeki no Souma; 7; DONE
+Soul Eater; 1; DONE
+Steins Gate; 1; X
+Steins Gate 0; 1; DONE
+Subete ga F ni Naru; 1; DONE
+Sword Art Online; 1; DONE
+Sword Art Online; 2; DONE
+Sword Art Online; 3; DONE
+Sword Art Online; 4; DONE
+Sword Art Online; 5; DONE
+Sword Art Online; 6; DONE
+Sword Art Online; 7; DONE
+Sword Art Online: War of Underworld; 1; DONE
+Sword Art Online: War of Underworld; 2; DONE
+Tate no Yuusha no Nariagari; 1; DONE
+Tate no Yuusha no Nariagari; 2; DONE
+Tengen Toppa Gurren Lagann; 1; DONE
+Tokyo Ghoul; 1; DONE
+Tokyo Ghoul; 2; DONE
+Tokyo Ghoul; 3; DONE
+Tokyo Ghoul; 4; DONE
+Toradora!; 1; X
+Trinity Seven; 2; DONE
+Violet Evergarden; 1; DONE
+Wotaku ni Koi wa Muzukashii; 1; DONE
+Yakusoku no Neverland; 1; DONE
+Yakusoku no Neverland; 2; DONE
+Youjo Senki; 1; DONE
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e; 1; DONE
+Yuri!!! on Ice; 1; DONE
+Yu Yu Hakusho; 2; DONE
+Zetsuen no Tempest; 1; DONE
+Fate/Apocrypha; 2; DONE
+Hai to Gensou no Grimgar; 1; DONE
+Kokkoku; 1; DONE
+Anohana; 1; DONE
+Log Horizon; 2; DONE
+Pokemon XYZ; 1; X
+Pokemon; 1; DONE
+Yu-Gi-Oh! GX; 1; X
+Yu-Gi-Oh!; 1; X
+Neon Genesis Evangelion; 1; DONE
+Goblin Slayer; 1; DONE
+Trigun; 1; DONE
+Inuyasha; 1; X
+Plastic Memories; 1; DONE
+Blend S; 1; X
+Gate; 2; DONE
+Little Witch Academia; 1; DONE
+Yamada-kun to 7-nin no Majo; 1; DONE
+Yuru Camp; 1; DONE
+Fairy Gone; 1; DONE
+Re: Creators; 1; DONE
+Konosuba; 2; DONE
+Nanbaka; 1; DONE
+Divine Gate; 1; DONE
+Taboo Tattoo; 1; DONE
+Acca 13; 1; DONE
+Tales of Zestiria The X; 1; DONE
+Dragon Ball Super; 2; X
+Durarara!! X2 Ketsu; 1; DONE
+Princess Principal; 1; DONE
+Gintama; 21; DONE
+Hamatora; 2; X
+Shakugan no Shana; 1; DONE
+Shakugan no Shana; 3; DONE
+Darker Than Black Ryuusei no Gemini; 1; DONE
+Baccano!; 1; X
+Watamote; 1; X
+Dragon Ball Z; 1; DONE
+Berserk 2016; 1; DONE
+Gintama; 13; DONE
+Vinland Saga; 1; DONE
+Dumbbell Nan Kilo Moteru?; 1; X
+Babylon; 1; DONE
+Dr. Stone; 2; DONE
+The God of High School; 1; DONE
+No Guns Life; 1; DONE
+No Guns Life; 2; DONE
+Vinland Saga; 2; DONE
+Pet; 1; DONE
+Isekai cheat magician; 1; DONE
+Cautious Hero; 1; DONE
+Given; 1; DONE
+Toaru kagaku no accelerator; 1; DONE
+Fairy Gone; 2; DONE
+Beastars; 1; DONE
+Somali to Mori no Kamisama; 1; DONE
+Diamond no Ace; 1; DONE
+Kuroko no Basket; 3; DONE
+Kami no Tou; 1; DONE
+Jujutsu Kaisen; 1; DONE
+Dr. Stone; 3; DONE
+Tensei Shitara Slime Datta Ken; 1; DONE
+Tensei Shitara Slime Datta Ken; 2; DONE
+Tensei Shitara Slime Datta Ken; 3; DONE
+Beastars; 2; DONE
+Nanatsu no Taizai; 7; DONE
+Nanatsu no Taizai; 8; DONE
+Jujutsu Kaisen; 2; DONE
