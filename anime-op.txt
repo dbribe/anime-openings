@@ -303,3 +303,5 @@ Beastars; 2; DONE
 Nanatsu no Taizai; 7; DONE
 Nanatsu no Taizai; 8; DONE
 Jujutsu Kaisen; 2; DONE
+// JoJos p4 op 1,2,3
+// All the spring 2021
